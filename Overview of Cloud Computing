@@ -1,0 +1,22 @@
+Cloud Computing is a way of using information technology(IT) that has these 5 equally important traits:-
+1)Customers get computing resources that are on-demand and self-service.Through web interface,users get the processing power,storage and net work they require without the 
+need for human intervention.
+2)Customers get access to those resources over the internet ,from anywhere.
+3)The provider of those resources allocates them to users out of that pool.That allows the users to buy in bulk,leading to cost saving.Customers dont have to know the exact
+physical location of those resources.
+4)Resources are elastic which means they are flexible,so customers can be.
+5)Customers pay only for what they use,or reserve as they go.
+
+Q)Why is the cloud model so compelling now?
+Ans=>To understand this,we need to go back to history,the trend towards cloud computing started with the first wave known as co-location.Co-Location gave the users the 
+     financial efficiency of renting physical space instead of renting data center real estate.
+     Virtualized data centres of today,which are the second wave,share similarities with the private data centers and co-location facilities of decades past.The components 
+     of virtualized data centers match the physical building blocks of hosted computing servers,CPU(s),disks,load balances,and so on.But now they are virtual devices.
+     With virtualization,enterprises still maintain the infrastructure which also remains a user controlled and use a configured environment.Several years ago,Google realized
+     that this buisness couldn't move fast enough within the confines of the virtualized model.Google switched to a container-based architecture,a fuly automated ,elastic
+     third wave cloud that consists of a combination of automated services and scalable data.
+     Services automatically provision and configured the infrastructure used to run applications.Today,Google cloud makes its third wave cloud available to Google customers.
+     Google believes that in future,every company regardless of its size or industry will differentiate itself from its competitors through technology.
+     
+     Increasingly,that technology will be in the form of software.Great software is based on high quality data.This means that every company is,or will eventually become a data
+     company.
